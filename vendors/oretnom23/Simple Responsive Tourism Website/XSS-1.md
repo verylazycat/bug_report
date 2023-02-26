@@ -1,7 +1,5 @@
 # Simple Responsive Tourism Website v1.0 by oretnom23 has Cross-site scripting (reflected)
 
-Website source address:https://www.sourcecodester.com/php/14838/simple-responsive-tourism-website-using-php-free-source-code.html
-
 BUG_Author: LiuYi
 
 Vulnerability File: /tourism/rate_review.php
